@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Jul/2026 17:21:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [10/Jul/2026 17:21:31] "GET /assets/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [10/Jul/2026 17:21:31] "GET /assets/fonts/font_4.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Jul/2026 17:21:31] "GET /assets/fonts/font_0.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Jul/2026 17:21:31] "GET /assets/script.js HTTP/1.1" 200 -
